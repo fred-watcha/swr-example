@@ -1,5 +1,6 @@
 {
-  "todos": [{
+  "todos": [
+    {
       "id": 1,
       "content": "Sleep",
       "completed": false
@@ -12,12 +13,12 @@
     {
       "id": 3,
       "content": "Watching TV",
-      "completed": false
+      "completed": true
     },
     {
       "id": 4,
       "content": "Study",
-      "completed": false
+      "completed": true
     }
   ]
 }
