@@ -1,0 +1,23 @@
+{
+  "todos": [{
+      "id": 1,
+      "content": "Sleep",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "content": "Work",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "content": "Watching TV",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "content": "Study",
+      "completed": false
+    }
+  ]
+}
